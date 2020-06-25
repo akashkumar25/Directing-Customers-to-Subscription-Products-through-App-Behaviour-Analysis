@@ -13,3 +13,6 @@ Classification and Prediction of customers who are going to take premium subscri
 
 ![image](https://user-images.githubusercontent.com/37111089/85774896-e79d7c00-b73c-11ea-8467-894287cfb2a3.png)
 
+### Achieved accuracy of 75%. Below is the confusion matrix
+
+
