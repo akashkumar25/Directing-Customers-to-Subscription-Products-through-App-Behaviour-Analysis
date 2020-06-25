@@ -15,4 +15,6 @@ Classification and Prediction of customers who are going to take premium subscri
 
 ### Achieved accuracy of 75%. Below is the confusion matrix
 
+![image](https://user-images.githubusercontent.com/37111089/85775768-b70a1200-b73d-11ea-9123-9da24a1541d4.png)
 
+## **"For more insights and steps of data preprocessing and feature engineering please check out the python file."**
