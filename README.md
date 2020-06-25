@@ -9,4 +9,7 @@ Classification and Prediction of customers who are going to take premium subscri
 
 ![image](https://user-images.githubusercontent.com/37111089/85773950-018a8f00-b73c-11ea-8b6d-962768861aca.png)
 
-### 2. 
+### 2.  Distribution of data in all the columns of the dataset
+
+![image](https://user-images.githubusercontent.com/37111089/85774896-e79d7c00-b73c-11ea-8467-894287cfb2a3.png)
+
